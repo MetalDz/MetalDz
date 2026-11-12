@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MetalDz
 - 👀 I’m interested in WEB DEVELOPPMENTS
-- 🌱 I’m currently learning Node Js 
-- 💞️ I’m looking to collaborate on Node Js Platforms
+- 🌱 I’m currently learning ai Engineering
 - 📫 How to reach me elfares.onservice@gmail.com
 
 <!---
